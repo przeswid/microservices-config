@@ -1,2 +1,2 @@
 my:
-  property: !PRODUCTION! config
+  property: PRODUCTION config
